@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logoText {
+  font-size: 100px;
+  /* Adjust the size as needed */
+  color: #61dafb;
+  /* This is the light blue color used elsewhere, adjust as needed */
+  font-weight: bold;
+  margin-bottom: 30px;
+  /* Creates some space between the logo text and the buttons below */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  /* Optional: Adds a subtle shadow for depth */
+}
